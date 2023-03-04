@@ -43,7 +43,7 @@
 }
 
 #banner {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.427), rgba(0, 0, 0, 0.432)), url(/Images/image1.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.427), rgba(0, 0, 0, 0.432)), url(./Images/image1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 350px;
